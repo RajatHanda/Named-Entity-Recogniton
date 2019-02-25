@@ -1,3 +1,5 @@
+## App Link
+Herou App: https://coolcaught.herokuapp.com<br>
 # NamedEntityRecogniton
 
 ## Introduction:
@@ -6,7 +8,6 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 ## Feature Generation and Modelling:
 A Named Entity recognizer using POS tags and Conditional Random Fields.<br>
 
-## App Link
-Herou App: https://coolcaught.herokuapp.com<br>
+
 ![Screenshot](Screenshot1.png)
 ![Screenshot](Screenshot2.png)
